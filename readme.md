@@ -1,6 +1,6 @@
 ## Notes Organizer
 
-Notes Organizer is a web applicaton where a user can write notes during a meeting, classes or random things. User can use basic text formats like bold, italic, underline, change the font size, and use OL and UL. User can also add pictures in his notes. Because all notes are saved in the application user can access them on other devices. If the user wants to download his notes, they will be downloaded as PDF file.  
+Notes Organizer is a web applicaton that allows users to write notes during a meeting, classes or random things. User can use basic text formats like bold, italic, underline, change the font size, and use OL and UL. User can also add pictures in his notes. Because all notes are saved in the application user can access them on other devices. If the user wants to download his notes, they will be downloaded as PDF file.  
 
 In "DB file" folder is the database for the application. To see the working example of this application click [HERE](http://punzalogaj.com/OrganizatorBiljezaka/public/auth/login).
 For username use **admin@admin.admin** and for password **administrator**
